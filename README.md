@@ -20,10 +20,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge"&logo=linkedin&logoColor="white"/> 
   </a>
    <a href= ""> 
-  <img src="https://img.shields.io/badge/YouTube-red?logo=linkedin&logoColor=white&style=for-the-badge&logo=youtube&logoColor="white""/>  
-  </a>
-   <a href= ""> 
-   <img src="https://img.shields.io/badge/Twitter-blue?logo=linkedin&logoColor=white&style=for-the-badge&logo=twitter&logoColor="white""/>  
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
    </a>
 </div> 
    <img src="https://komarev.com/ghpvc/?username=chelcee-xx&style=flat-square&color=blue"/>                                                                              <h1>
@@ -43,14 +40,11 @@ Here are some ideas to get you started:
                                                                                                 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
                                                                                                             
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning React JS
+- 👯 I’m looking to collaborate on web development projects
+- 🤔 I’m looking for help with Taking my skills to the next level and monetizing my skills
+- 😄 Pronouns: She/Her
+- 😅 In my free time, I solve problems on GeeksforGeeks and read tech articles. 
                                                                                                             
 ---
 
@@ -69,37 +63,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
                                                                                                             
-https://github-readme-streak-stats.herokuapp.com/?user=chelcee-xx
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chelcee-xx&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)                                                                                                            
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats) -->                                                                                                           
                                                                                                             
                                                                                                             
                                                                                                             
                                                                                                             
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
-                                                                                                            
+                                                                                                                
